@@ -30,7 +30,7 @@
       "category": "Misceláneos",
       "description": "Tope de cocina Frigilux TCFR-64SX Italiana a empotrar de 580 * 500cm y 9.5KG Voltaje: 110V, 4 quemadores Encendido Automático y Electrónico",
       "id": "1",
-      "image": "assets/Tope de Cocina.jpg",
+      "image": "/assets/Tope de Cocina.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -52,7 +52,7 @@
       "caracteristicas": "-Sistema HVLP: El sistema HVLP utiliza un flujo de aire alto y una presión de aire baja para producir una capa de pintura uniforme y de baja viscosidad. Esto hace que la pistola sea más eficiente en el uso de pintura y reduce la cantidad de residuos,-Boquilla de 1.4mm: La boquilla de 1.4 mm proporciona un patrón de pulverización redondo y uniforme, -Capacidad de la taza de 600 ml: La taza de 600 ml proporciona un tiempo de trabajo prolongado sin necesidad de recargar, -Diseño ergonómico: El diseño ergonómico de la pistola hace que sea cómoda de usar durante períodos prolongados.",
       "description": "La pistola de aire Spray Gun H-887 es una pistola de pulverización HVLP (High Volume Low Pressure) de alimentación por gravedad.",
       "id": "2",
-      "image": "assets/Pistola de gravedad para pintar.png",
+      "image": "/assets/Pistola de gravedad para pintar.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué tipo de proyectos es adecuada esta pistola?",
@@ -80,7 +80,7 @@
       "category": "Herramientas",
       "description": "Los Set de Oring MEITE para herramientas neumáticas son un conjunto de anillos de sellado de goma que se utilizan para sellar las juntas y evitar fugas de aire. Están fabricados en caucho de alta calidad y están diseñados para soportar el desgaste y la corrosión.",
       "id": "3",
-      "image": "assets/Set de O-ring MEITE.png",
+      "image": "/assets/Set de O-ring MEITE.png",
       "preguntas": [
         {
           "pregunta": "¿Qué tamaño de oring necesito?",
@@ -109,7 +109,7 @@
       "category": "Accesorios para bicicleta",
       "description": "Una parrilla de carga para bicicleta es un accesorio que se monta en la parte trasera de una bicicleta para transportar carga. ",
       "id": "4",
-      "image": "assets/Parrilla de carga para bicicleta.png  ",
+      "image": "/assets/Parrilla de carga para bicicleta.png  ",
       "price": 30,
       "product": "Parrilla de carga para Bicicleta",
       "stock": 0,
@@ -126,7 +126,7 @@
       "category": "Muebles",
       "description": "Son una excelente opción para aquellos que buscan un aspecto elegante y moderno en su baño. El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, y el tope agrega un toque de sofisticación.",
       "id": "5",
-      "image": "assets/Mueble de baño.jpg",
+      "image": "/assets/Mueble de baño.jpg",
       "preguntas": [
         {
           "pregunta": "¿Viene con espejo?",
@@ -151,7 +151,7 @@
       "category": "Muebles",
       "description": "Son una excelente opción para aquellos que buscan un aspecto elegante y moderno en su baño. El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, y el tope agrega un toque de sofisticación.",
       "id": "6",
-      "image": "assets/Mueble de baño.jpg",
+      "image": "/assets/Mueble de baño.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -172,7 +172,7 @@
       "category": "Muebles",
       "description": "Son una excelente opción para aquellos que buscan un aspecto elegante y moderno en su baño. El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, y el tope agrega un toque de sofisticación.",
       "id": "7",
-      "image": "assets/Mueble de baño.jpg",
+      "image": "/assets/Mueble de baño.jpg",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -193,7 +193,7 @@
       "category": "Herramientas",
       "description": "Las mangueras espirales son un tipo de manguera que tiene un refuerzo interno en espiral que le da resistencia a la presión y a la abrasión. Están hechas de una variedad de materiales, incluyendo PVC, PU y nylon.",
       "id": "8",
-      "image": "assets/Manguera de Espiral.png",
+      "image": "/assets/Manguera de Espiral.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -215,7 +215,7 @@
       "caracteristicas": "",
       "description": "Los lavamanos destacan por sus líneas extremadamente precisas y paralelas que entran al interior del seno mediante una transición suave y redonda. Además es muy fácil de limpiar, Lavamanos de Cerámica en color Blanco, Ancho: 71 cm, Profundidad: 47 cm, Alto: 17.5 cm",
       "id": "9",
-      "image": "assets/Lavamanos Empotrable.png",
+      "image": "/assets/Lavamanos Empotrable.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -235,7 +235,7 @@
       "category": "Muebles",
       "id": "10",
       "caracteristicas": "",
-      "image": "assets/Lavamanos Empotrable AquaFaucets.png",
+      "image": "/assets/Lavamanos Empotrable AquaFaucets.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -255,7 +255,7 @@
       "category": "Grapas",
       "description": "Las grapas 9038 son grapas de acero galvanizado de calibre 18 con un largo de 1 1/2 pulgadas y una separación de 1/2 pulgada. Están diseñadas para ser utilizadas en una variedad de aplicaciones, incluyendo la construcción, la carpintería y la tapicería.",
       "id": "11",
-      "image": "assets/Grapas 9038.png",
+      "image": "/assets/Grapas 9038.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué tipo de aplicaciones son adecuadas estas grapas?",
@@ -281,7 +281,7 @@
       "caracteristicas": "-Serie: 90 -Calibre: 18 -Cantidad por caja: 4.000unds -Corona: 6mm -Pata: 30mm o 1 1/5''",
       "description": "Las grapas 9030 son grapas de acero galvanizado de calibre 18 con un largo de 1 1/5 pulgada y una separación de 1/2 pulgada.",
       "id": "12",
-      "image": "assets/Grapas 9030.png",
+      "image": "/assets/Grapas 9030.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué tipo de aplicaciones son adecuadas estas grapas?",
@@ -302,7 +302,7 @@
       "description": "Las grapas 9025 son grapas de acero galvanizado de calibre 18 con un largo de 1 pulgada y una separación de 1/4 pulgada.",
       "caracteristicas": "-Serie: 90 -Calibre: 18 -Cantidad por caja: 4.000unds -Corona: 6mm -Pata: 25mm ó 1''",
       "id": "13",
-      "image": "assets/Grapas 9025.png",
+      "image": "/assets/Grapas 9025.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué tipo de aplicaciones son adecuadas estas grapas?",
@@ -326,7 +326,7 @@
       "category": "Grapas",
       "description": "Las grapas 8012 son grapas de acero galvanizado de calibre 18 con un largo de 1 1/2 pulgada y una separación de 1/2 pulgada.",
       "id": "14",
-      "image": "assets/Grapas 8012.png",
+      "image": "/assets/Grapas 8012.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué se utilizan las grapas 8012?",
@@ -347,7 +347,7 @@
       "category": "Grapas",
       "description": "Las grapas 8010 son grapas de acero galvanizado de calibre 18 con un largo de 3/8 de pulgada y una separación de 1/2 pulgada.",
       "id": "15",
-      "image": "assets/Grapas 8010.png",
+      "image": "/assets/Grapas 8010.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué se utilizan las grapas 8012?",
@@ -368,7 +368,7 @@
       "category": "Grapas",
       "description": "Las grapas 8010 son grapas de acero galvanizado de calibre 18 con un largo de 5/16 de pulgada y una separación de 1/2 pulgada.",
       "id": "16",
-      "image": "assets/Grapas 8008.png",
+      "image": "/assets/Grapas 8008.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué se utilizan las grapas 8012?",
@@ -393,7 +393,7 @@
       "category": "Grapas",
       "description": "",
       "id": "17",
-      "image": "assets/Grapas 8006.png",
+      "image": "/assets/Grapas 8006.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué se utilizan las grapas 8012?",
@@ -418,7 +418,7 @@
       "category": "Grapas",
       "description": "Las grapas 1008J son un tipo de grapa en forma de U que se utilizan en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera. El extremo de la grapa tiene una forma de U que se abre al ser disparada por una grapadora. Esto permite que la grapa se asegure firmemente en el material.",
       "id": "18",
-      "image": "assets/Grapas 1013J.png",
+      "image": "/assets/Grapas 1013J.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué se utilizan las grapas serie J?",
@@ -439,7 +439,7 @@
       "category": "Grapas",
       "description": "Las grapas 1008J son un tipo de grapa en forma de U que se utilizan en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera.",
       "id": "19",
-      "image": "assets/Grapas 1013J.png",
+      "image": "/assets/Grapas 1013J.png",
       "preguntas": [
         {
           "pregunta": "¿Para qué se utilizan las grapas serie J?",
@@ -460,7 +460,7 @@
       "category": "Herramientas",
       "description": "Grapadora Neumática Modelo 8016B Marca MEITE, acepta grapas hasta 8016 - 16mm de largo Serie 80",
       "id": "20",
-      "image": "assets/Grapadora 8016B.png",
+      "image": "/assets/Grapadora 8016B.png",
       "price": 72,
       "product": "Grapadora 8016B",
       "stock": 0,
@@ -471,7 +471,7 @@
       "category": "Herramientas",
       "description": "Grapas para serie J desde 6mm hasta 13mm",
       "id": "21",
-      "image": "assets/Grapadora 1013J.png",
+      "image": "/assets/Grapadora 1013J.png",
       "price": 72,
       "product": "Grapadora 1013J",
       "stock": 0,
@@ -482,7 +482,7 @@
       "category": "Misceláneos",
       "description": "La cola blanca de 20KG es un tipo de adhesivo que se utiliza para unir una variedad de materiales, incluyendo madera, papel, cartón y tela. Es un adhesivo versátil y fácil de usar, y es una buena opción para proyectos de bricolaje y manualidades. La cola blanca de 20KG se presenta en forma de líquido viscoso que se seca transparente. Se aplica con un pincel o una espátula, y se deja secar durante unas horas antes de unir los materiales.",
       "id": "22",
-      "image": "assets/Cuñete de Pega Blanca.png",
+      "image": "/assets/Cuñete de Pega Blanca.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -503,7 +503,7 @@
       "category": "Misceláneos",
       "description": "La cola blanca de 20KG es un tipo de adhesivo que se utiliza para unir una variedad de materiales, incluyendo madera, papel, cartón y tela. Es un adhesivo versátil y fácil de usar, y es una buena opción para proyectos de bricolaje y manualidades. La cola blanca de 20KG se presenta en forma de líquido viscoso que se seca transparente. Se aplica con un pincel o una espátula, y se deja secar durante unas horas antes de unir los materiales.",
       "id": "23",
-      "image": "assets/Galón de Pega Blanca.png",
+      "image": "/assets/Galón de Pega Blanca.png",
       "preguntas": [
         {
           "pregunta": "¿Qué usos tiene?",
@@ -524,7 +524,7 @@
       "category": "Clavillos",
       "description": "Los clavos F45 calibre 18 son un tipo de clavo pequeño y fino que se utiliza en una variedad de aplicaciones, incluyendo tapicería, carpintería y manualidades. Son una buena opción para proyectos que requieren una sujeción fuerte y precisa.",
       "id": "24",
-      "image": "assets/Clavillos F45.png",
+      "image": "/assets/Clavillos F45.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -545,7 +545,7 @@
       "category": "Clavillos",
       "description": "Los clavos F40 son clavos de calibre 18 que se utilizan para una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje",
       "id": "25",
-      "image": "assets/Clavillos F40.png",
+      "image": "/assets/Clavillos F40.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -566,7 +566,7 @@
       "category": "Clavillos",
       "description": "Son ideales para trabajos finos en madera y armado de estructuras. Tamaño: 1 ⅜' (35mm) Calibre 18, 5000 unds por caja",
       "id": "26",
-      "image": "assets/Clavillos F35.png",
+      "image": "/assets/Clavillos F35.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -587,7 +587,7 @@
       "category": "Clavillos",
       "description": "Los clavos F30 calibre 18 tienen una longitud de 1 3/16 pulgadas y un calibre de 18. El calibre se refiere al grosor del alambre del que está hecho el clavo. Los clavos de calibre 18 son de tamaño mediano y se pueden utilizar para una variedad de materiales.",
       "id": "27",
-      "image": "assets/Clavillos F30.png",
+      "image": "/assets/Clavillos F30.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -608,7 +608,7 @@
       "category": "Clavillos",
       "description": "Los clavos F25 calibre 18 son un tipo de clavo recto que se utiliza en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera.",
       "id": "28",
-      "image": "assets/Clavillos F25.png",
+      "image": "/assets/Clavillos F25.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -629,7 +629,7 @@
       "category": "Clavillos",
       "description": "Son ideales para trabajos finos en madera y armado de estructuras.",
       "id": "29",
-      "image": "assets/Clavillos F20.png",
+      "image": "/assets/Clavillos F20.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -650,7 +650,7 @@
       "category": "Clavillos",
       "description": "Son un tipo de clavos de cabeza pequeña, la cabeza de los clavos F15 calibre 18 es pequeña y plana. Esto los hace discretos y fáciles de ocultar. La cabeza del clavo también tiene una ranura que ayuda a que el clavo se sujete al material.",
       "id": "30",
-      "image": "assets/Clavillos F15.png",
+      "image": "/assets/Clavillos F15.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -671,7 +671,7 @@
       "category": "Clavillos",
       "description": "Los clavos F10 calibre 18 son un tipo de clavo pequeño que se utiliza para una variedad de propósitos, incluyendo carpintería, tapicería y artesanía. Son conocidos por su punta afilada y su cuerpo delgado, lo que los hace ideales para proyectos que requieren una penetración profunda.",
       "id": "31",
-      "image": "assets/Clavillos F10.png",
+      "image": "/assets/Clavillos F10.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -692,7 +692,7 @@
       "category": "Herramientas",
       "description": "Clavadora Neumática Modelo F32 Marca MEITE, Acepta clavillos desde (F10) 10mm de alto hasta (F30) 32mm, Calibre 18",
       "id": "32",
-      "image": "assets/Clavadora F32.png",
+      "image": "/assets/Clavadora F32.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -713,7 +713,7 @@
       "category": "Herramientas",
       "description": "El kit de conductor (pistón conductor + junta tórica) para la grapadora de tapicería Meite MT1016J es una pieza de repuesto importante para esta herramienta. El pistón conductor es responsable de empujar las grapas a través del material, mientras que la junta tórica ayuda a sellar el cilindro de aire y evitar fugas.",
       "id": "33",
-      "image": "assets/Aguja de Repuesto para 1013J.png",
+      "image": "/assets/Aguja de Repuesto para 1013J.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
@@ -734,7 +734,7 @@
       "category": "Herramientas",
       "description": "Repuestos para clavadoras F32",
       "id": "34",
-      "image": "assets/Aguja de Repuesto para F32.png",
+      "image": "/assets/Aguja de Repuesto para F32.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
