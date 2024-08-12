@@ -112,7 +112,7 @@
       "image": "/Parrilla de carga para bicicleta.png  ",
       "price": 30,
       "product": "Parrilla de carga para Bicicleta",
-      "stock": 0,
+      "stock": 5,
       "preguntas": [
         {
           "pregunta": "¿Viene con espejo?",
@@ -126,7 +126,7 @@
       "category": "Muebles",
       "description": "Son una excelente opción para aquellos que buscan un aspecto elegante y moderno en su baño. El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, y el tope agrega un toque de sofisticación.",
       "id": "5",
-      "image": "/Mueble de baño.jpg",
+      "image": "/Mueble de bano.jpg",
       "preguntas": [
         {
           "pregunta": "¿Viene con espejo?",
