@@ -1,0 +1,338 @@
+@import "../config/__config.scss";
+
+.ruta {
+  margin-left: 80px;
+  margin-top: -20px;
+  margin-bottom: 20px;
+  width: 30%;
+
+
+  & a.back {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    color: #111;
+
+    svg:hover {
+      color: $primary-color;
+      fill: $primary-color;
+
+    }
+  }
+
+  & svg {
+    margin-right: 40px;
+    width: 20px;
+    height: 20px;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+.carousel {
+  scroll-snap-type: x mandatory;
+
+  & div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+}
+
+
+.detalleProducto {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 90vw;
+  margin: 0 auto 80px auto;
+  gap: 4rem;
+
+  & .productDetail {
+    max-height: 550px;
+    overflow: scroll;
+  }
+
+  & .cartIcon {
+    position: absolute;
+    right: 4rem;
+    top: 3rem;
+    background: $secondary-color;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+
+  .product {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    text-align: left;
+    width: 40vw;
+    height: 100%;
+
+    & img {
+      width: 95%;
+      height: auto;
+      aspect-ratio: 1/1;
+      object-fit: cover;
+      border-radius: 20px;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+
+    & .info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+
+      & .price {
+        & h1 {
+          color: #111;
+          font-weight: 400;
+          text-align: left;
+          text-wrap: wrap;
+          line-height: 1.5;
+          margin-bottom: 0.8rem;
+        }
+
+        & p {
+          font-size: 21px;
+        }
+      }
+
+      & .cartInfo {
+        & .stock {
+          text-align: right;
+          font-size: 14px;
+          margin-top: 0.4rem;
+          text-wrap: wrap;
+          width: 100%;
+        }
+
+        & button.addProducts {
+          width: 110%;
+          box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4),
+            0px 7px 13px -3px rgba(0, 0, 0, 0.3),
+            0px -3px 0px rgba(34, 38, 42, 0.2);
+          border-radius: 4px;
+          background: $secondary-color;
+          font-weight: 300;
+          display: flex;
+          justify-content: space-between;
+          outline: none;
+          border: none;
+          align-items: center;
+
+          & p {
+            margin: 0 15px;
+            color: $tertiary-color;
+          }
+
+          & img {
+            margin: auto 0 auto auto;
+            width: 14px;
+            object-fit: cover;
+            height: 14px;
+          }
+        }
+
+        & p.stock {
+          font-size: 12px;
+          text-align: right;
+        }
+      }
+    }
+  }
+
+
+  & h2 {
+    color: #111;
+    font-weight: 400;
+    text-align: left;
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  &:first-child {
+    width: 20px;
+    height: 20px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+}
+
+.styles-module_carousel-arrow__26sRw {
+  height: 100%;
+}
+
+.description {
+  p {
+    font-size: 16px;
+  }
+}
+
+.productDetail {
+  width: 30vw;
+  text-align: left;
+  display: flex;
+  justify-content: stretch;
+  align-items: self-start;
+  text-align: left;
+
+  flex-direction: column;
+
+  & h2 {
+    margin-top: 0;
+  }
+
+  & .usos p {
+    width: 100%;
+  }
+
+  & p {
+    width: 90%;
+    margin-bottom: 1rem;
+  }
+}
+
+
+.productosRecomendadosContainer {
+  text-align: left;
+
+  & .productsRecomended {
+    width: 90vw;
+    margin: auto;
+
+    & h2 {
+      font-size: 21px;
+      font-weight: 600;
+      margin-bottom: 2rem;
+    }
+
+    & .productosRecomendados {
+
+      & .producto {
+        margin-bottom: 20px;
+        color: #111;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+        width: 240px;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: start;
+        flex-direction: column;
+        border-radius: 4px;
+        padding: 0 0 20px 0;
+
+        & .detalle {
+          margin-left: 20px;
+          display: flex;
+          justify-content: center;
+          align-items: start;
+          flex-direction: column;
+
+          & h4 {
+            margin-top: 0.5rem;
+            font-size: 16px;
+            font-weight: 400;
+          }
+
+          & p {
+            font-size: 16px;
+            margin-top: .3rem;
+          }
+        }
+
+        & img {
+          width: 100%;
+          margin: 0;
+          height: 180px;
+          object-fit: cover;
+        }
+      }
+    }
+  }
+}
+
+.cart {
+  position: absolute;
+  top: 90px;
+  right: 0;
+  height: 80vh;
+  width: 100%;
+
+  .cart-info {
+    height: 60%;
+  }
+
+  & h4 {
+    margin-top: -50px;
+  }
+
+}
+
+.otrosProductos {
+  width: 90vw;
+  margin: auto;
+
+  & h2 {
+    font-size: 21px;
+    font-weight: 600;
+    margin: 2rem 0;
+    text-align: left;
+  }
+
+  & .otrosProductosContainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+
+    & .producto {
+      margin-bottom: 20px;
+      color: #111;
+      box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+      width: 240px;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: start;
+      flex-direction: column;
+      border-radius: 4px;
+      padding: 0 0 20px 0;
+
+      & .detalle {
+        margin-left: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: start;
+        flex-direction: column;
+
+        & h4 {
+          font-weight: 400;
+          margin-top: 0.5rem;
+          font-size: 16px;
+        }
+
+        & p {
+          font-size: 16px;
+          margin-top: .3rem;
+        }
+      }
+
+      & img {
+        width: 100%;
+        height: 180px;
+        object-fit: cover;
+      }
+    }
+  }
+}

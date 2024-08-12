@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "@trendyol-js/react-carousel": "^3.0.2",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4",
+    "moment": "^2.30.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
+    "sass": "^1.62.1",
+    "sonner": "^0.6.2",
+    "styled-components": "^6.1.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "vite": "^4.3.2"
+  },
+  "name": "tiendaonline",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "json:server": "json-server --watch ./src/data/db.json  --port 3000"
+  },
+  "type": "module",
+  "version": "0.0.0",
+  "description": "Tienda Online con filtros por categoría y busqueda",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}

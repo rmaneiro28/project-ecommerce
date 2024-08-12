@@ -1,0 +1,20 @@
+$primary-color: #efd55c;
+$secondary-color: #efd55c;
+$tertiary-color: #111;
+$quaternary-color: #FFF;
+$alert-color: #ff5555;
+$lowStockColor: #D87400;
+$outOfStockColor: #9D1D1D;
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    text-align: left;
+    font-family: "Oswald", sans-serif;
+    box-sizing: border-box;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}

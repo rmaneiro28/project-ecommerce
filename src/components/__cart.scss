@@ -1,0 +1,164 @@
+@import "../config/__config.scss";
+
+h4 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.carrito-container {
+  width: calc(30vw - 10.62rem);
+}
+
+.cart-button {
+  background: $secondary-color;
+  color: $tertiary-color;
+}
+
+.cantidad {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+footer {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+
+  & button {
+    border-radius: 4px;
+    background: $quaternary-color;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.40);
+    display: flex;
+    padding: 0.5rem 0.9rem;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.stock {
+  color: #969696;
+  font-size: 12px;
+}
+
+.stock-alert {
+  color: $alert-color;
+  font-size: 12px;
+
+}
+
+.item-details {
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  width: 100%;
+}
+
+.product-item {
+  font-size: 16px;
+  width: 150px;
+  font-weight: 500;
+}
+
+.totalPrice {
+  width: 80%;
+  border-top: 1px solid #969696;
+  padding: 10px 0 40px 0;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+  &--title {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  &--price {
+    font-size: 16px;
+  }
+}
+
+.cart-items {
+  padding: 20px;
+  height: 40vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  .cart-item {
+    list-style: none;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1rem;
+
+    .item-details {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .cart-image {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    img {
+      aspect-ratio: 16/9;
+      width: 100px;
+      height: 120px;
+      object-fit: cover;
+      object-position: center;
+      border-radius: 5px;
+    }
+  }
+
+}
+
+.compra {
+  color: $quaternary-color;
+}
+
+.clearIcon {
+  width: 18px;
+}
+
+.compra,
+.limpiar {
+  text-align: center;
+  display: block;
+  margin: auto;
+  color: $tertiary-color;
+  width: 80%;
+  background: $secondary-color;
+  border-radius: 4px;
+  font-weight: 400;
+}
+
+.limpiar {
+  margin-top: 1rem;
+  background: $alert-color;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.cart {
+  display: block;
+}
+
+
+
+.cart-info {
+  & h4 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+}
+
+.x-icon {
+  display: none;
+}

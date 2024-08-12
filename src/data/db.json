@@ -1,0 +1,804 @@
+{
+  "categories": [
+    {
+      "category": "Todas",
+      "id": "1"
+    },
+    {
+      "category": "Clavillos",
+      "id": "2"
+    },
+    {
+      "category": "Grapas",
+      "id": "3"
+    },
+    {
+      "category": "Herramientas",
+      "id": "4"
+    },
+    {
+      "category": "Muebles",
+      "id": "5"
+    },
+    {
+      "category": "Misceláneos",
+      "id": "6"
+    }
+  ],
+  "products": [
+    {
+      "category": "Misceláneos",
+      "description": "Tope de cocina Frigilux TCFR-64SX Italiana a empotrar de 580 * 500cm y 9.5KG Voltaje: 110V, 4 quemadores Encendido Automático y Electrónico",
+      "id": "1",
+      "image": "/src/assets/Products/Tope de Cocina.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 150,
+      "product": "Tope de Cocina de gas",
+      "stock": 0,
+      "caracteristicas": "",
+      "usos": ""
+    },
+    {
+      "category": "Herramientas",
+      "caracteristicas": "-Sistema HVLP: El sistema HVLP utiliza un flujo de aire alto y una presión de aire baja para producir una capa de pintura uniforme y de baja viscosidad. Esto hace que la pistola sea más eficiente en el uso de pintura y reduce la cantidad de residuos,-Boquilla de 1.4mm: La boquilla de 1.4 mm proporciona un patrón de pulverización redondo y uniforme, -Capacidad de la taza de 600 ml: La taza de 600 ml proporciona un tiempo de trabajo prolongado sin necesidad de recargar, -Diseño ergonómico: El diseño ergonómico de la pistola hace que sea cómoda de usar durante períodos prolongados.",
+      "description": "La pistola de aire Spray Gun H-887 es una pistola de pulverización HVLP (High Volume Low Pressure) de alimentación por gravedad.",
+      "id": "2",
+      "image": "/src/assets/Products/Pistola de gravedad para pintar.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué tipo de proyectos es adecuada esta pistola?",
+          "respuesta": "La Spray Gun H-887 es adecuada para una amplia gama de proyectos, incluyendo la pintura de automóviles, muebles, madera y otros materiales."
+        },
+        {
+          "pregunta": "¿Qué tipo de pintura puedo usar con esta pistola?",
+          "respuesta": "Se puede utilizar con una amplia gama de pinturas, incluyendo pinturas a base de agua, pinturas a base de aceite y pinturas de látex. Sin embargo, es importante consultar las instrucciones de la pintura para obtener información específica sobre la compatibilidad con la pistola."
+        },
+        {
+          "pregunta": "¿Qué presión de aire necesito para usar esta pistola?",
+          "respuesta": "La presión de aire recomendada es de 2,5 a 4,5 bares. Sin embargo, es importante consultar las instrucciones de la pistola para obtener información específica sobre la presión de aire adecuada."
+        },
+        {
+          "pregunta": "¿Cómo puedo limpiar esta pistola?",
+          "respuesta": "Se puede limpiar fácilmente con agua y jabón. También se puede utilizar un limpiador de pistolas de pulverización para eliminar los residuos de pintura."
+        }
+      ],
+      "price": 72,
+      "product": "Spray Gun H-887",
+      "stock": 4,
+      "usos": "Está diseñada para ser utilizada en una amplia gama de aplicaciones, incluyendo la pintura de: -Automóviles -Muebles -Madera -Y otros materiales."
+    },
+    {
+      "category": "Herramientas",
+      "description": "Los Set de Oring MEITE para herramientas neumáticas son un conjunto de anillos de sellado de goma que se utilizan para sellar las juntas y evitar fugas de aire. Están fabricados en caucho de alta calidad y están diseñados para soportar el desgaste y la corrosión.",
+      "id": "3",
+      "image": "/src/assets/Products/Set de O-ring MEITE.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tamaño de oring necesito?",
+          "respuesta": "Para determinar el tamaño de oring que necesita, debe medir el diámetro interior y el diámetro exterior del orificio que desea sellar. Una vez que tenga estas medidas, puede consultar la tabla de tamaños de oring de MEITE para encontrar el tamaño adecuado."
+        },
+        {
+          "pregunta": "¿Qué tipo de material de oring necesito?",
+          "respuesta": "El tipo de material de oring que necesita depende del tipo de fluido o gas que está sellando. MEITE ofrece una variedad de materiales de oring, incluyendo caucho de nitrito, caucho de silicona y caucho fluorado."
+        },
+        {
+          "pregunta": "¿Cómo se almacenan los oring?",
+          "respuesta": "Los oring se deben almacenar en un lugar fresco, seco y oscuro."
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 8,
+      "product": "Set de Oring MEITE",
+      "stock": 10,
+      "caracteristicas": "-Material: Están fabricados en caucho de alta calidad, que es resistente al desgaste y la corrosión. -Tamaños: Están disponibles en una variedad de tamaños para adaptarse a una amplia gama de herramientas neumáticas. -Tipos: Están disponibles en una variedad de tipos para adaptarse a diferentes aplicaciones.",
+      "usos": "-Reparación de herramientas neumáticas: Este kit se puede usar para reparar herramientas neumáticas que tienen fugas de aire o fluidos.-Mantenimiento de herramientas neumáticas: Este kit se puede usar para mantener herramientas neumáticas en buen estado de funcionamiento.-Prevención de fugas: Este kit se puede usar para prevenir fugas de aire o fluidos en herramientas neumáticas."
+    },
+    {
+      "category": "Accesorios para bicicleta",
+      "description": "Una parrilla de carga para bicicleta es un accesorio que se monta en la parte trasera de una bicicleta para transportar carga. ",
+      "id": "4",
+      "image": "/src/assets/Products/Parrilla de carga para bicicleta.png  ",
+      "price": 30,
+      "product": "Parrilla de carga para Bicicleta",
+      "stock": 0,
+      "preguntas": [
+        {
+          "pregunta": "¿Viene con espejo?",
+          "respuesta": "No, solamente el mueble de baño"
+        }
+      ],
+      "caracteristicas": "-Largo: 54cm -Ancho: 14cm",
+      "usos": ""
+    },
+    {
+      "category": "Muebles",
+      "description": "Son una excelente opción para aquellos que buscan un aspecto elegante y moderno en su baño. El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, y el tope agrega un toque de sofisticación.",
+      "id": "5",
+      "image": "/src/assets/Products/Mueble de baño.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Viene con espejo?",
+          "respuesta": "No, solamente el mueble de baño"
+        },
+        {
+          "pregunta": "¿Tienen otros colores?",
+          "respuesta": "Sí, tenemos disponibles en madera blanca, madera oscura"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 240,
+      "product": "Mueble de baño Rivalta con tope",
+      "stock": 12,
+      "caracteristicas": "-Mueble aéreo con tope -Modelo Rivalta 60 11 Piu Mobili -Color: Blanco -Material: Frente Alto brillo -Alto: ? -Ancho: ? -Profundidad: ?",
+      "usos": "El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, además el tope agrega un toque de elegancia, tenemos disponibilidad de una variedad de tamaños y estilos para adaptarse a cualquier espacio, también son fáciles de limpiar con un paño húmedo."
+    },
+    {
+      "category": "Muebles",
+      "description": "Son una excelente opción para aquellos que buscan un aspecto elegante y moderno en su baño. El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, y el tope agrega un toque de sofisticación.",
+      "id": "6",
+      "image": "/src/assets/Products/Mueble de baño.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 240,
+      "product": "Mueble de Baño Rivalta",
+      "stock": 14,
+      "caracteristicas": "-Mueble aéreo con tope -Modelo Rivalta 60 11 Piu Mobili -No incluye ni lavamanos ni Espejo -Color: Blanco -Material: Frente Alto brillo -Alto: ? -Ancho: ? -Profundidad: ?",
+      "usos": "El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, además el tope agrega un toque de elegancia, tenemos disponibilidad de una variedad de tamaños y estilos para adaptarse a cualquier espacio, también son fáciles de limpiar con un paño húmedo."
+    },
+    {
+      "category": "Muebles",
+      "description": "Son una excelente opción para aquellos que buscan un aspecto elegante y moderno en su baño. El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, y el tope agrega un toque de sofisticación.",
+      "id": "7",
+      "image": "/src/assets/Products/Mueble de baño.jpg",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 200,
+      "product": "Mueble de Baño Rivalta Old",
+      "stock": 2,
+      "caracteristicas": "-Mueble aéreo con tope -Modelo Rivalta 60 11 Piu Mobili -No incluye ni lavamanos ni Espejo -Color: Blanco -Material: Frente Alto brillo -Alto: ? -Ancho: ? -Profundidad: ?",
+      "usos": "El acabado blanco alto brillo crea una sensación de amplitud y luminosidad, además el tope agrega un toque de elegancia, tenemos disponibilidad de una variedad de tamaños y estilos para adaptarse a cualquier espacio, también son fáciles de limpiar con un paño húmedo."
+    },
+    {
+      "category": "Herramientas",
+      "description": "Las mangueras espirales son un tipo de manguera que tiene un refuerzo interno en espiral que le da resistencia a la presión y a la abrasión. Están hechas de una variedad de materiales, incluyendo PVC, PU y nylon.",
+      "id": "8",
+      "image": "/src/assets/Products/Manguera de Espiral.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 8,
+      "product": "Manguera Espiral",
+      "stock": 2,
+      "caracteristicas": "-Resistencia a la presión: Están diseñadas para soportar altas presiones de trabajo. -Resistencia a la abrasión: El refuerzo interno en espiral proporciona una gran resistencia a la abrasión. -Flexibilidad: Son muy flexibles, lo que las hace adecuadas para una variedad de aplicaciones. -Durabilidad: están diseñadas para durar.",
+      "usos": "-Conectar un compresor de aire a herramientas neumáticas, como pistolas de clavos, atornilladores, sopladores y pulidoras.-Llevar aire comprimido a lugares de difícil acceso, como debajo de un automóvil o en el interior de un edificio.-Proteger el aire comprimido de la contaminación, como polvo, suciedad y humedad."
+    },
+    {
+      "category": "Muebles",
+      "caracteristicas": "",
+      "description": "Los lavamanos destacan por sus líneas extremadamente precisas y paralelas que entran al interior del seno mediante una transición suave y redonda. Además es muy fácil de limpiar, Lavamanos de Cerámica en color Blanco, Ancho: 71 cm, Profundidad: 47 cm, Alto: 17.5 cm",
+      "id": "9",
+      "image": "/src/assets/Products/Lavamanos Empotrable.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 130,
+      "product": "Lavamanos para empotrar",
+      "stock": 10,
+      "usos": ""
+    },
+    {
+      "category": "Muebles",
+      "id": "10",
+      "caracteristicas": "",
+      "image": "/src/assets/Products/Lavamanos Empotrable AquaFaucets.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 110,
+      "product": "Lavamanos Blanco",
+      "stock": 0,
+      "usos": ""
+    },
+    {
+      "category": "Grapas",
+      "description": "Las grapas 9038 son grapas de acero galvanizado de calibre 18 con un largo de 1 1/2 pulgadas y una separación de 1/2 pulgada. Están diseñadas para ser utilizadas en una variedad de aplicaciones, incluyendo la construcción, la carpintería y la tapicería.",
+      "id": "11",
+      "image": "/src/assets/Products/Grapas 9038.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué tipo de aplicaciones son adecuadas estas grapas?",
+          "respuesta": "Las grapas 9038 son adecuadas para una variedad de aplicaciones, incluyendo la construcción, la carpintería y la tapicería. Se utilizan para unir paneles de madera, paneles de yeso, piezas de madera, tapicería y otros materiales."
+        },
+        {
+          "pregunta": "¿Qué tamaño y longitud de grapa debo usar?",
+          "respuesta": "El tamaño y la longitud de la grapa que necesita dependerán del tipo de material que esté uniendo. Para la mayoría de las aplicaciones de construcción y carpintería, se recomienda usar grapas de 1 1/2 pulgadas de largo."
+        },
+        {
+          "pregunta": "¿Qué tipo de pistola de grapadora necesito para usar estas grapas?",
+          "respuesta": "Para usar las grapas 9038, necesita una pistola de grapadora neumática que sea compatible con este tipo de grapas. La mayoría de las pistolas de grapadoras neumáticas son compatibles con las grapas 9038."
+        }
+      ],
+      "price": "14.5",
+      "product": "Grapas 9038",
+      "stock": 0,
+      "caracteristicas": "Material: Las grapas 9038 están hechas de acero galvanizado, que las hace resistentes a la corrosión. Calibre: El calibre 18 es un calibre estándar que proporciona una resistencia adecuada para la mayoría de las aplicaciones.Longitud: La longitud de 1 1/2 pulgadas es adecuada para la mayoría de las aplicaciones de construcción y carpintería.Separación: La separación de 1/2 pulgada es adecuada para la mayoría de los materiales.",
+      "usos": "Construcción: Las grapas 9038 se utilizan para unir paneles de madera, paneles de yeso y otros materiales de construcción. Carpintería: Las grapas 9038 se utilizan para unir piezas de madera, como paneles de contrachapado y molduras. Tapicería: Las grapas 9038 se utilizan para unir tapicería, como tela y cuero."
+    },
+    {
+      "category": "Grapas",
+      "caracteristicas": "-Serie: 90 -Calibre: 18 -Cantidad por caja: 4.000unds -Corona: 6mm -Pata: 30mm o 1 1/5''",
+      "description": "Las grapas 9030 son grapas de acero galvanizado de calibre 18 con un largo de 1 1/5 pulgada y una separación de 1/2 pulgada.",
+      "id": "12",
+      "image": "/src/assets/Products/Grapas 9030.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué tipo de aplicaciones son adecuadas estas grapas?",
+          "respuesta": "Las grapas 9030 son adecuadas para una amplia gama de proyectos, incluyendo la construcción, la carpintería y la tapicería. Son ideales para unir paneles de yeso, molduras, tela y cuero."
+        },
+        {
+          "pregunta": "¿Qué tipo de pistola de grapadora necesito para usar estas grapas?",
+          "respuesta": "Para usar las grapas 9030, necesita una pistola de grapadora neumática que sea compatible con este tipo de grapas. La mayoría de las pistolas de grapadoras neumáticas son compatibles con las grapas 9038."
+        }
+      ],
+      "price": 13,
+      "product": "Grapas 9030",
+      "stock": 4,
+      "usos": " Están diseñadas para ser utilizadas en una variedad de aplicaciones incluyendo la construcción (para unir paneles de yeso, molduras y otros materiales ligeros), la carpintería (para unir piezas de madera, como paneles de contrachapado y molduras) y la tapicería (para unir materiales ligeros como tela y cuero)."
+    },
+    {
+      "category": "Grapas",
+      "description": "Las grapas 9025 son grapas de acero galvanizado de calibre 18 con un largo de 1 pulgada y una separación de 1/4 pulgada.",
+      "caracteristicas": "-Serie: 90 -Calibre: 18 -Cantidad por caja: 4.000unds -Corona: 6mm -Pata: 25mm ó 1''",
+      "id": "13",
+      "image": "/src/assets/Products/Grapas 9025.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué tipo de aplicaciones son adecuadas estas grapas?",
+          "respuesta": "Las grapas 9025 son adecuadas para una amplia gama de proyectos, incluyendo la construcción, la carpintería y la tapicería. Son ideales para unir paneles de yeso, molduras, tela y cuero."
+        },
+        {
+          "pregunta": "¿Qué tamaño y longitud de grapa debo usar?",
+          "respuesta": "La longitud y la separación de las grapas deben adaptarse al material que se está uniendo. Para la mayoría de las aplicaciones de construcción y carpintería, se recomienda utilizar grapas de 1 pulgada de largo con una separación de 1/2 pulgada."
+        },
+        {
+          "pregunta": "¿Qué tipo de pistola de grapadora necesito para usar estas grapas?",
+          "respuesta": "Para usar las grapas 9038, necesita una pistola de grapadora neumática que sea compatible con este tipo de grapas. La mayoría de las pistolas de grapadoras neumáticas son compatibles con las grapas 9038."
+        }
+      ],
+      "price": 13,
+      "product": "Grapas 9025",
+      "stock": 10,
+      "usos": "Construcción: Las grapas 9025 se utilizan para unir paneles de yeso, molduras y otros materiales ligeros.Carpintería: Las grapas 9025 se utilizan para unir piezas de madera, como paneles de contrachapado y molduras.Tapicería: Las grapas 9025 se utilizan para unir tapicería, como tela y cuero."
+    },
+    {
+      "category": "Grapas",
+      "description": "Las grapas 8012 son grapas de acero galvanizado de calibre 18 con un largo de 1 1/2 pulgada y una separación de 1/2 pulgada.",
+      "id": "14",
+      "image": "/src/assets/Products/Grapas 8012.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué se utilizan las grapas 8012?",
+          "respuesta": "Las grapas 8012 se utilizan para unir una amplia gama de materiales, incluyendo madera, plástico, tela y cartón. Son una opción versátil para una variedad de proyectos."
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 11,
+      "product": "Grapas 8012",
+      "caracteristicas": "-Serie: 80 - Calibre: 21 -Material: Acero galvanizado -Corona: 1/2 pulgada - Cantidad por caja: 10.000unds - Largo de Pata: 12mm o 1/2''",
+      "stock": 20,
+      "usos": "Construcción: Se utilizan para unir paneles de yeso, molduras y otros materiales ligeros y medianos. Carpintería: Se utilizan para unir piezas de madera, como paneles de contrachapado y molduras. Tapicería: Se utilizan para unir tapicería, como tela y cuero."
+    },
+    {
+      "category": "Grapas",
+      "description": "Las grapas 8010 son grapas de acero galvanizado de calibre 18 con un largo de 3/8 de pulgada y una separación de 1/2 pulgada.",
+      "id": "15",
+      "image": "/src/assets/Products/Grapas 8010.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué se utilizan las grapas 8012?",
+          "respuesta": "Las grapas 8010 se utilizan para unir una amplia gama de materiales, incluyendo madera, plástico, tela y cartón. Son una opción versátil para una variedad de proyectos."
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 11,
+      "product": "Grapas 8010",
+      "stock": 14,
+      "caracteristicas": " -Material: Acero galvanizado -Serie: 80 -Calibre: 21 -Caja de 10.000 unds -Largo de la pata: 10mm o ⅜''",
+      "usos": "Construcción: Las grapas 8010 se utilizan para unir paneles de yeso, molduras y otros materiales ligeros y medianos.Carpintería: Las grapas 8010 se utilizan para unir piezas de madera, como paneles de contrachapado y molduras.Tapicería: Las grapas 8010 se utilizan para unir tapicería, como tela y cuero."
+    },
+    {
+      "category": "Grapas",
+      "description": "Las grapas 8010 son grapas de acero galvanizado de calibre 18 con un largo de 5/16 de pulgada y una separación de 1/2 pulgada.",
+      "id": "16",
+      "image": "/src/assets/Products/Grapas 8008.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué se utilizan las grapas 8012?",
+          "respuesta": "Las grapas 8012 se utilizan para unir una amplia gama de materiales, incluyendo madera, plástico, tela y cartón. Son una opción versátil para una variedad de proyectos."
+        },
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 10mm ó su equivalente en pulgadas de 5/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 11,
+      "product": "Grapas 8008",
+      "stock": 18,
+      "caracteristicas": "-Material: Acero galvanizado -Serie 80 -Corona: 1/2 pulgada -Calibre: 21 -Cantidad por caja: 10.000unds -Largo de la pata: 8mm o 5/16''",
+      "usos": "Construcción: Las grapas 8008 se utilizan para unir paneles de yeso, molduras y otros materiales ligeros y medianos.Carpintería: Las grapas 8008 se utilizan para unir piezas de madera, como paneles de contrachapado y molduras. Tapicería: Las grapas 8008 se utilizan para unir tapicería, como tela y cuero."
+    },
+    {
+      "category": "Grapas",
+      "description": "",
+      "id": "17",
+      "image": "/src/assets/Products/Grapas 8006.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué se utilizan las grapas 8012?",
+          "respuesta": "Las grapas 8012 se utilizan para unir una amplia gama de materiales, incluyendo madera, plástico, tela y cartón. Son una opción versátil para una variedad de proyectos."
+        },
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 8mm ó su equivalente en pulgadas de 1 5/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 11,
+      "product": "Grapas 8006",
+      "stock": 16,
+      "caracteristicas": "-Material: Acero galvanizado -Serie: 80 -Calibre: 21 -Cantidad por caja: 10.000unds -Largo de la pata: 8mm o 5/16'",
+      "usos": "Construcción: Las grapas 8006 se utilizan para unir paneles de yeso, molduras y otros materiales ligeros y medianos.Carpintería: Las grapas 8006 se utilizan para unir piezas de madera, como paneles de contrachapado y molduras. Tapicería: Las grapas 8006 se utilizan para unir tapicería, como tela y cuero."
+    },
+    {
+      "category": "Grapas",
+      "description": "Las grapas 1008J son un tipo de grapa en forma de U que se utilizan en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera. El extremo de la grapa tiene una forma de U que se abre al ser disparada por una grapadora. Esto permite que la grapa se asegure firmemente en el material.",
+      "id": "18",
+      "image": "/src/assets/Products/Grapas 1013J.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué se utilizan las grapas serie J?",
+          "respuesta": "Las grapas Serie J son un tipo de grapa en forma de U que se utilizan en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera."
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 8,
+      "product": "Grapas 1013J",
+      "stock": 60,
+      "caracteristicas": "-Calibre 20 -Longitud: 13mm ó 1/2 pulgada -Corona: 11,2mm ó 7/16 pulgadas -Cantidad por caja: 5.000unds",
+      "usos": "Aplicaciones: Carpintería, Tapicería, Embalaje"
+    },
+    {
+      "category": "Grapas",
+      "description": "Las grapas 1008J son un tipo de grapa en forma de U que se utilizan en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera.",
+      "id": "19",
+      "image": "/src/assets/Products/Grapas 1013J.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Para qué se utilizan las grapas serie J?",
+          "respuesta": "Las grapas Serie J son un tipo de grapa en forma de U que se utilizan en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera."
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 8,
+      "product": "Grapas 1008J",
+      "stock": 60,
+      "caracteristicas": "-Calibre 20 -Longitud: 8mm ó 5/16 pulgadas -Corona: 11,2mm ó 7/16 pulgadas -Cantidad por caja: 5.000unds",
+      "usos": "Aplicaciones: Carpintería, Tapicería, Embalaje"
+    },
+    {
+      "category": "Herramientas",
+      "description": "Grapadora Neumática Modelo 8016B Marca MEITE, acepta grapas hasta 8016 - 16mm de largo Serie 80",
+      "id": "20",
+      "image": "/src/assets/Products/Grapadora 8016B.png",
+      "price": 72,
+      "product": "Grapadora 8016B",
+      "stock": 0,
+      "caracteristicas": "",
+      "usos": ""
+    },
+    {
+      "category": "Herramientas",
+      "description": "Grapas para serie J desde 6mm hasta 13mm",
+      "id": "21",
+      "image": "/src/assets/Products/Grapadora 1013J.png",
+      "price": 72,
+      "product": "Grapadora 1013J",
+      "stock": 0,
+      "caracteristicas": "",
+      "usos": ""
+    },
+    {
+      "category": "Misceláneos",
+      "description": "La cola blanca de 20KG es un tipo de adhesivo que se utiliza para unir una variedad de materiales, incluyendo madera, papel, cartón y tela. Es un adhesivo versátil y fácil de usar, y es una buena opción para proyectos de bricolaje y manualidades. La cola blanca de 20KG se presenta en forma de líquido viscoso que se seca transparente. Se aplica con un pincel o una espátula, y se deja secar durante unas horas antes de unir los materiales.",
+      "id": "22",
+      "image": "/src/assets/Products/Cuñete de Pega Blanca.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 80,
+      "product": "Cuñete de pega blanca",
+      "stock": 0,
+      "caracteristicas": "",
+      "usos": ""
+    },
+    {
+      "category": "Misceláneos",
+      "description": "La cola blanca de 20KG es un tipo de adhesivo que se utiliza para unir una variedad de materiales, incluyendo madera, papel, cartón y tela. Es un adhesivo versátil y fácil de usar, y es una buena opción para proyectos de bricolaje y manualidades. La cola blanca de 20KG se presenta en forma de líquido viscoso que se seca transparente. Se aplica con un pincel o una espátula, y se deja secar durante unas horas antes de unir los materiales.",
+      "id": "23",
+      "image": "/src/assets/Products/Galón de Pega Blanca.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué usos tiene?",
+          "respuesta": "Se puede utilizar para una variedad de aplicaciones, incluyendo: Carpintería: Se puede utilizar para unir madera, paneles y otros materiales de construcción. Tapicería: Se puede utilizar para sujetar telas y otros materiales a muebles y otros objetos. Manualidades: Se puede utilizar para unir una variedad de materiales, incluyendo papel, cartón, tela y madera."
+        },
+        {
+          "pregunta": "¿Cuánto tiempo tarda en secar?",
+          "respuesta": "Tarda aproximadamente 24 horas en secarse completamente."
+        }
+      ],
+      "price": 36,
+      "product": "Galón de pega blanca",
+      "stock": 16,
+      "caracteristicas": "-Es un adhesivo versátil que se puede utilizar para una variedad de materiales.-Es fácil de usar y aplicar.-Se seca transparente, por lo que no deja marcas visibles.-Es un adhesivo económico.",
+      "usos": "Unión de madera, papel, cartón, tela, manualidades, bricolaje"
+    },
+    {
+      "category": "Clavillos",
+      "description": "Los clavos F45 calibre 18 son un tipo de clavo pequeño y fino que se utiliza en una variedad de aplicaciones, incluyendo tapicería, carpintería y manualidades. Son una buena opción para proyectos que requieren una sujeción fuerte y precisa.",
+      "id": "24",
+      "image": "/src/assets/Products/Clavillos F45.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 45mm ó su equivalente en pulgadas de 1 ¾"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 13,
+      "product": "Clavillos F45",
+      "stock": 5,
+      "caracteristicas": "-Tamaño: 45mm ó 1 ¾ pulgadas -Calibre: 18 -Material: Galvanizado -Cantidad por caja: 5.000 Unds",
+      "usos": "Tapicería: Se pueden utilizar para fijar telas y otros materiales a muebles y otros objetos.Carpintería: Se pueden utilizar para unir madera y otros materiales de construcción. Manualidades: Se pueden utilizar para crear proyectos de manualidades, como marcos de fotos y muebles pequeños."
+    },
+    {
+      "category": "Clavillos",
+      "description": "Los clavos F40 son clavos de calibre 18 que se utilizan para una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje",
+      "id": "25",
+      "image": "/src/assets/Products/Clavillos F40.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 40mm ó su equivalente en pulgadas de 1 9/16"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 13,
+      "product": "Clavillos F40",
+      "stock": 1,
+      "caracteristicas": "-Tamaño: 40mm ó 1 9/16 pulgadas -Calibre: 18 -Material: Galvanizado  -Cantidad por caja: 5.000 unds por caja",
+      "usos": "Los clavos F40 se pueden utilizar para unir una variedad de materiales, incluyendo madera, tela, cartón y plástico. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera."
+    },
+    {
+      "category": "Clavillos",
+      "description": "Son ideales para trabajos finos en madera y armado de estructuras. Tamaño: 1 ⅜' (35mm) Calibre 18, 5000 unds por caja",
+      "id": "26",
+      "image": "/src/assets/Products/Clavillos F35.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 13,
+      "product": "Clavillos F35",
+      "stock": 15,
+      "caracteristicas": "",
+      "usos": ""
+    },
+    {
+      "category": "Clavillos",
+      "description": "Los clavos F30 calibre 18 tienen una longitud de 1 3/16 pulgadas y un calibre de 18. El calibre se refiere al grosor del alambre del que está hecho el clavo. Los clavos de calibre 18 son de tamaño mediano y se pueden utilizar para una variedad de materiales.",
+      "id": "27",
+      "image": "/src/assets/Products/Clavillos F30.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 14,
+      "product": "Clavillos F30",
+      "stock": 43,
+      "caracteristicas": "-Calibre 18 -Cantidad por caja: 5000 unds -Largo: 30mm o 1 3/16''",
+      "usos": "Los clavos F30 calibre 18 son un tipo de clavo largo y delgado que se utiliza para una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera."
+    },
+    {
+      "category": "Clavillos",
+      "description": "Los clavos F25 calibre 18 son un tipo de clavo recto que se utiliza en una variedad de aplicaciones, incluyendo carpintería, tapicería y embalaje. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera.",
+      "id": "28",
+      "image": "/src/assets/Products/Clavillos F25.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 25mm ó su equivalente en pulgadas de 1''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 13,
+      "product": "Clavillos F25",
+      "stock": 60,
+      "caracteristicas": "-Calibre: 18 -Cantidad por caja: 5000 unds -Largo: 25mm o 1 pulgada",
+      "usos": "Se pueden utilizar en carpintería,  tapiceríay embalaje; para unir madera, paneles, telas o cajas"
+    },
+    {
+      "category": "Clavillos",
+      "description": "Son ideales para trabajos finos en madera y armado de estructuras.",
+      "id": "29",
+      "image": "/src/assets/Products/Clavillos F20.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 20mm ó su equivalente en pulgadas de ¾"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 12,
+      "product": "Clavillos F20",
+      "stock": 28,
+      "caracteristicas": "-Calibre: 18 -Cantidad por caja: 5.000 unds -Largo: 20mm o ¾ pulgada",
+      "usos": "Los clavos F20 calibre 18 se pueden utilizar para unir una variedad de materiales, incluyendo madera, tela, cartón y plástico. Son una buena opción para proyectos que requieren una sujeción fuerte y duradera, como la construcción de muebles, la tapicería y el embalaje."
+    },
+    {
+      "category": "Clavillos",
+      "description": "Son un tipo de clavos de cabeza pequeña, la cabeza de los clavos F15 calibre 18 es pequeña y plana. Esto los hace discretos y fáciles de ocultar. La cabeza del clavo también tiene una ranura que ayuda a que el clavo se sujete al material.",
+      "id": "30",
+      "image": "/src/assets/Products/Clavillos F15.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 11,
+      "product": "Clavillos F15",
+      "stock": 52,
+      "caracteristicas": "-Calibre: 18 -Cantidad por caja: 5000 unds - Largo: 15mm o ⅝''",
+      "usos": "-Carpintería -Tapicería-Embalaje"
+    },
+    {
+      "category": "Clavillos",
+      "description": "Los clavos F10 calibre 18 son un tipo de clavo pequeño que se utiliza para una variedad de propósitos, incluyendo carpintería, tapicería y artesanía. Son conocidos por su punta afilada y su cuerpo delgado, lo que los hace ideales para proyectos que requieren una penetración profunda.",
+      "id": "31",
+      "image": "/src/assets/Products/Clavillos F10.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 10mm ó su equivalente en pulgadas de ⅜''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 9,
+      "product": "Clavillos F10",
+      "stock": 40,
+      "caracteristicas": "-Tamaño: 10mm ó ⅜ pulgada -Calibre: 18 -Cantidad por caja: 5.000unds por caja",
+      "usos": ""
+    },
+    {
+      "category": "Herramientas",
+      "description": "Clavadora Neumática Modelo F32 Marca MEITE, Acepta clavillos desde (F10) 10mm de alto hasta (F30) 32mm, Calibre 18",
+      "id": "32",
+      "image": "/src/assets/Products/Clavadora F32.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": 88,
+      "product": "Clavadora F32",
+      "stock": 6,
+      "caracteristicas": "-Marca: Meite -Modelo: F32 -Capacidad del cargador: 100 clavos -Peso ligero y bien equilibrado - Utiliza clavos de calibre 18 de  3/8 a 1 1/4 pulgadas (10mm a 32mm) de longitud -Sin herramientas de la profundidad de ajuste de disco para ajuste exacto de la cabeza de uñas.",
+      "usos": "Perfecto para trabajos de moldura y moldura. Ideal para tapicería, carpintería, decoración, reparación de mamparas, fijación de cables, proyectos de manualidades. Adecuado para reparación general y usos profesionales."
+    },
+    {
+      "category": "Herramientas",
+      "description": "El kit de conductor (pistón conductor + junta tórica) para la grapadora de tapicería Meite MT1016J es una pieza de repuesto importante para esta herramienta. El pistón conductor es responsable de empujar las grapas a través del material, mientras que la junta tórica ayuda a sellar el cilindro de aire y evitar fugas.",
+      "id": "33",
+      "image": "/src/assets/Products/Aguja de Repuesto para 1013J.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": "14.5",
+      "product": "Agujas para clavadoras 1013J",
+      "stock": 5,
+      "caracteristicas": "-Compatible con: Grapadora Meite MT1016J, 1013J -Incluye 1 pieza de driver de juego y 1 pieza de junta tórica -Calor tratado acero para herramientas-Tecnología de aleación de Taiwán-Individualmente embalado en sellado bolsa de plástico",
+      "usos": "Para reemplazar el kit de conductor en una grapadora, siga estos pasos: -Desconecte la grapadora de la fuente de aire.  -Retire el cargador de grapas de la grapadora. -Retire el cilindro de aire de la grapadora. -Retire el pistón conductor y la junta tórica del cilindro de aire. -Inserte el nuevo pistón conductor y la junta tórica en el cilindro de aire. -Vuelva a colocar el cilindro de aire en la grapadora. -Vuelva a colocar el cargador de grapas en la grapadora. -Vuelva a conectar la grapadora a la fuente de aire."
+    },
+    {
+      "category": "Herramientas",
+      "description": "Repuestos para clavadoras F32",
+      "id": "34",
+      "image": "/src/assets/Products/Aguja de Repuesto para F32.png",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto mide de largo?",
+          "respuesta": "Tiene un largo de 30mm ó su equivalente en pulgadas de 1 3/16''"
+        },
+        {
+          "pregunta": "¿Dónde estan ubicados?",
+          "respuesta": "Estamos ubicados en La Urbina, Caracas - Venezuela"
+        }
+      ],
+      "price": "14.5",
+      "product": "Agujas para Clavadoras F32",
+      "stock": 5,
+      "caracteristicas": "-Compatible con: Grapadora Meite F32 -Incluye 1 pieza de driver de juego y 1 pieza de junta tórica -Calor tratado acero para herramientas-Tecnología de aleación de Taiwán-Individualmente embalado en sellado bolsa de plástico",
+      "usos": "Para reemplazar el kit de conductor en una grapadora, siga estos pasos: - Desconecte la grapadora de la fuente de aire.  - Retire el cargador de grapas de la grapadora. - Retire el cilindro de aire de la grapadora. - Retire el pistón conductor y la junta tórica del cilindro de aire. - Inserte el nuevo pistón conductor y la junta tórica en el cilindro de aire. - Vuelva a colocar el cilindro de aire en la grapadora. - Vuelva a colocar el cargador de grapas en la grapadora. - Vuelva a conectar la grapadora a la fuente de aire."
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "nombre_cliente": "Sneider Araque",
+      "orden": "NE-0001",
+      "telf": "+58-412-3397066",
+      "estado": "Falcón",
+      "fecha_orden": "12-08-2024",
+      "products": [
+        {
+          "id": "5",
+          "nombre_producto": "Mueble de baño Rivalta con tope",
+          "cant": 1,
+          "stock": 11,
+          "precio": 240,
+          "precioTotal": 240
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "nombre_cliente": "Salomón Rondón",
+      "orden": "NE-0001",
+      "telf": "+58-412-3397066",
+      "estado": "Apure",
+      "fecha_orden": "12-08-2024",
+      "products": [
+        {
+          "id": "3",
+          "nombre_producto": "Set de Oring MEITE",
+          "cant": 4,
+          "stock": 6,
+          "precio": 8,
+          "precioTotal": 32
+        }
+      ]
+    }
+  ],
+  "clientes": [
+    {
+      "id": "e480"
+    },
+    {
+      "0": {
+        "id": "e480"
+      },
+      "id": "c7da"
+    }
+  ]
+}

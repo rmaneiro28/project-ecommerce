@@ -1,0 +1,33 @@
+@import "../config/__config.scss";
+
+.form-group {
+    margin-bottom: 1rem;
+    width: 100%;
+
+    label {
+        display: block;
+    }
+
+    input {
+        width: 100%;
+        padding: 1rem 0.75rem;
+        font-size: 12px;
+        margin-top: 5px;
+        border-radius: 4px;
+        border: 1px solid transparent;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 0px;
+
+        &:focus {
+            border: rgba(17, 17, 17, 0.5) solid 1px;
+            outline: rgba(17, 17, 17, 0.5) solid 1px;
+        }
+    }
+}
+
+.btnPrimary {
+    background-color: #111111;
+    padding: 6px 12px;
+    box-shadow: (0, 123, 255, 0.5) 0px 0px 0px 3.2px;
+    color: $quaternary-color;
+    font-weight: 400;
+}

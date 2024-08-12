@@ -1,0 +1,75 @@
+@import "../config/__config.scss";
+
+.header {
+  grid-area: "header";
+  box-sizing: border-box;
+  color: $tertiary-color;
+
+  & &-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &-logo {
+      img.logo {
+        width: 60px;
+        height: 60px;
+        margin-right: 20px;
+      }
+    }
+
+    &-info {
+      text-align: left;
+
+      h1 {
+        font-size: 18px;
+        font-weight: 400;
+      }
+
+      p {
+        font-weight: 300;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      &-location {
+        text-decoration: none;
+        color: $tertiary-color;
+        font-weight: 300;
+        font-size: 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+          width: 20px;
+          height: 20px;
+        }
+      }
+    }
+  }
+
+  & &-redes {
+    .redes {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      a {
+        text-decoration: none;
+        color: $tertiary-color;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      p {
+        text-align: right;
+        font-weight: 300;
+        margin: 0 10px;
+        width: 200px;
+      }
+    }
+  }
+}

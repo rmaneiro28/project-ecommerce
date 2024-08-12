@@ -1,0 +1,31 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) -13px -6px 27px -5px,
+        rgba(0, 0, 0, 0.3) -8px -6px 16px -8px;
+
+    a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        color: #111;
+        font-weight: 400;
+        font-size: 14px;
+        text-wrap: balance;
+
+    }
+
+    .footer-redes {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+
+        img {
+            margin-right: 10px;
+        }
+    }
+}
