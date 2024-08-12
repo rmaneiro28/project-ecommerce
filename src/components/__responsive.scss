@@ -1507,12 +1507,12 @@
 
     & .header-redes {
       p {
-        font-size: 8px;
+        display: none;
       }
     }
 
     & .header-main-info {
-      font-size: 10px;
+      display: none;
     }
   }
 
@@ -1547,6 +1547,11 @@
         width: max-content;
       }
     }
+  }
+
+
+  .header-redes p {
+    display: none;
   }
 
   .container {
