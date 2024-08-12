@@ -1505,15 +1505,16 @@
     padding: 2rem 3.5rem;
 
 
-   & .header-redes {
+    & .header-redes {
       p {
         font-size: 8px;
       }
     }
 
     & .header-main-info {
-      font-size: 12px;
+      font-size: 10px;
     }
+  }
 
   .filters-search,
   .filters-categories {
@@ -1547,8 +1548,6 @@
       }
     }
   }
-
-
 
   .container {
     grid-template-areas: "header ", "filters ", "products ";
