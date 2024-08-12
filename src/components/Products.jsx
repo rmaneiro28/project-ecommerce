@@ -82,6 +82,7 @@ export function Products({ cart }) {
                             ) : 'outOfStock';
                             stockActual > 0
 
+
                             return (
                                 <div key={product.id} className="product" category={product.category}>
                                     <NavLink to={`/products/${product.product}`} key={product.id} className="product-link">
