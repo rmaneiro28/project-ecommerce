@@ -692,7 +692,7 @@
       "category": "Herramientas",
       "description": "Clavadora Neumática Modelo F32 Marca MEITE, Acepta clavillos desde (F10) 10mm de alto hasta (F30) 32mm, Calibre 18",
       "id": "32",
-      "image": "/src/assets/Clavadora F32.png",
+      "image": "/src/assets/Clavadora_F32.png",
       "preguntas": [
         {
           "pregunta": "¿Cuánto mide de largo?",
